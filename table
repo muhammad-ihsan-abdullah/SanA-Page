@@ -1,0 +1,34 @@
+<table border="1">
+
+<tr>
+    <td colspan="3" >DATA SISWA</td>
+</tr>
+
+<tr>
+    <td>No</td>
+    <td>uraian</td>
+    <td>keterangan</td>
+</tr>
+
+<tr>
+    <td>1</td>
+    <td>nis</td>
+    <td>5467</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>nama</td>
+    <td>ihsan</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td>kelas</td>
+    <td>X Mipa 5</td>
+</tr>
+<tr>
+    <td>4</td>
+    <td>alamat</td>
+    <td>villa adonia c.10</td>
+</tr>
+
+</table>
